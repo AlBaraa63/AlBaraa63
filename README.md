@@ -19,7 +19,3 @@ I am a developer passionate about **Computer Vision**, **Agentic AI**, and build
 *   **AI & ML**: Computer Vision, Object Detection, Agentic Workflows.
 *   **Languages**: Python, JavaScript/TypeScript.
 *   **Focus**: Building "Smart" applications that solve human problems.
-
----
-
-[Showcase your projects by pinning them below!]
