@@ -1,31 +1,46 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:0d1117,50:003d10,100:00ff41&text=AlBaraa%20AlOlabi&fontColor=00ff41&fontSize=42&fontAlignY=38&desc=AI%20Researcher%20%26%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:0d1117,50:003d10,100:00ff41&text=AlBaraa%20AlOlabi&fontColor=00ff41&fontSize=48&fontAlignY=35&desc=AI%20Researcher%20%26%20Developer%20%E2%80%94%20Computer%20Vision%20%C2%B7%20Agentic%20AI&descAlignY=55&descSize=16&animation=fadeIn" width="100%"/>
 
 <a href="https://github.com/AlBaraa63">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00FF41&center=true&vCenter=true&width=600&lines=Teaching+machines+to+see.;Building+agents+that+act.;Computer+Vision+%C2%B7+Agentic+AI+%C2%B7+MCP;On-device+AI+%E2%80%94+fast%2C+private%2C+offline." alt="Typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=700&color=00FF41&center=true&vCenter=true&width=700&lines=Teaching+machines+to+see.;Building+agents+that+act.;97.59%25+accuracy.+12+ms+inference.+Zero+cloud.;Computer+Vision+%C2%B7+Agentic+AI+%C2%B7+MCP;IEEE+Published+Author+%C2%B7+42+Abu+Dhabi" alt="Typing animation"/>
 </a>
 
-<br/>
+<br/><br/>
 
-[![Website](https://img.shields.io/badge/albaraaalolabi.dev-0d1117?style=flat-square&logo=googlechrome&logoColor=00ff41)](https://albaraaalolabi.dev)
-![Location](https://img.shields.io/badge/UAE-0d1117?style=flat-square&logo=googlemaps&logoColor=00ff41)
-![IEEE](https://img.shields.io/badge/IEEE_Published_Author-0d1117?style=flat-square&logo=ieee&logoColor=00ff41)
-![Profile views](https://komarev.com/ghpvc/?username=AlBaraa63&color=00ff41&style=flat-square&label=profile+views)
+[![Website](https://img.shields.io/badge/PORTFOLIO-albaraaalolabi.dev-00ff41?style=for-the-badge&labelColor=0d1117&logo=googlechrome&logoColor=00ff41)](https://albaraaalolabi.dev)
+[![Followers](https://img.shields.io/github/followers/AlBaraa63?style=for-the-badge&label=FOLLOWERS&labelColor=0d1117&color=00ff41&logo=github&logoColor=00ff41)](https://github.com/AlBaraa63?tab=followers)
+[![Stars](https://img.shields.io/github/stars/AlBaraa63?style=for-the-badge&label=STARS&labelColor=0d1117&color=00ff41&logo=apachespark&logoColor=00ff41)](https://github.com/AlBaraa63?tab=repositories)
+
+![IEEE](https://img.shields.io/badge/IEEE-PUBLISHED_AUTHOR-00ff41?style=for-the-badge&labelColor=0d1117&logo=ieee&logoColor=00ff41)
+![Location](https://img.shields.io/badge/BASE-UAE_%F0%9F%87%A6%F0%9F%87%AA-00ff41?style=for-the-badge&labelColor=0d1117)
+![Profile views](https://komarev.com/ghpvc/?username=AlBaraa63&color=00ff41&style=for-the-badge&label=VISITORS)
 
 </div>
 
+<br/>
+
 ## `$ whoami`
 
-```text
-> AI researcher & developer working at the intersection of perception and autonomy:
-  models that detect, reason, and take action without hand-holding.
+<img align="right" src="https://media.giphy.com/media/sULKEgDMX8LcI/giphy.gif" width="300" alt="Matrix rain"/>
 
-> Now      : IT Intern @ Abu Dhabi Social Support Authority · 42 Abu Dhabi Piscine
-> Focus    : on-device mobile AI · Model Context Protocol servers · multi-step agentic workflows
+```text
+> AI researcher & developer working at the
+  intersection of perception and autonomy:
+  models that detect, reason, and take
+  action without hand-holding.
+
+> Now      : IT Intern @ Abu Dhabi Social
+             Support Authority
+             42 Abu Dhabi Piscine
+> Focus    : on-device mobile AI
+             Model Context Protocol servers
+             multi-step agentic workflows
 > Published: IEEE SNAMS 2025
 > Certs    : CS50x · CS50P · CS50AI
 ```
+
+<br clear="right"/>
 
 ## `$ ls featured-projects/`
 
@@ -39,30 +54,29 @@
 
 ## `$ cat stack.txt`
 
-**AI / Computer Vision**
+<div align="center">
 
-![Python](https://img.shields.io/badge/-Python-0d1117?style=flat-square&logo=python&logoColor=00ff41)
-![PyTorch](https://img.shields.io/badge/-PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=00ff41)
-![OpenCV](https://img.shields.io/badge/-OpenCV-0d1117?style=flat-square&logo=opencv&logoColor=00ff41)
-![TFLite](https://img.shields.io/badge/-TFLite-0d1117?style=flat-square&logo=tensorflow&logoColor=00ff41)
-![YOLOv8](https://img.shields.io/badge/-YOLOv8-0d1117?style=flat-square&logoColor=00ff41)
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,kotlin,androidstudio,react,git,github,vscode,linux&theme=dark&perline=11" alt="Tech stack icons"/>
+</a>
 
-**Agentic AI & Tooling**
+<br/><br/>
 
-![MCP](https://img.shields.io/badge/-MCP-0d1117?style=flat-square&logo=modelcontextprotocol&logoColor=00ff41)
-![Claude API](https://img.shields.io/badge/-Claude_API-0d1117?style=flat-square&logo=claude&logoColor=00ff41)
-![FAISS](https://img.shields.io/badge/-FAISS-0d1117?style=flat-square&logo=meta&logoColor=00ff41)
-![Gradio](https://img.shields.io/badge/-Gradio-0d1117?style=flat-square&logo=gradio&logoColor=00ff41)
+![MCP](https://img.shields.io/badge/-Model_Context_Protocol-0d1117?style=for-the-badge&logo=modelcontextprotocol&logoColor=00ff41)
+![Claude API](https://img.shields.io/badge/-Claude_API-0d1117?style=for-the-badge&logo=claude&logoColor=00ff41)
+![YOLOv8](https://img.shields.io/badge/-YOLOv8-0d1117?style=for-the-badge&logoColor=00ff41)
+![TFLite](https://img.shields.io/badge/-TFLite-0d1117?style=for-the-badge&logo=tensorflow&logoColor=00ff41)
+![FAISS](https://img.shields.io/badge/-FAISS-0d1117?style=for-the-badge&logo=meta&logoColor=00ff41)
+![Gradio](https://img.shields.io/badge/-Gradio-0d1117?style=for-the-badge&logo=gradio&logoColor=00ff41)
+![Jetpack Compose](https://img.shields.io/badge/-Jetpack_Compose-0d1117?style=for-the-badge&logo=jetpackcompose&logoColor=00ff41)
 
-**Mobile & Web**
-
-![Kotlin](https://img.shields.io/badge/-Kotlin-0d1117?style=flat-square&logo=kotlin&logoColor=00ff41)
-![Jetpack Compose](https://img.shields.io/badge/-Jetpack_Compose-0d1117?style=flat-square&logo=jetpackcompose&logoColor=00ff41)
-![React](https://img.shields.io/badge/-React-0d1117?style=flat-square&logo=react&logoColor=00ff41)
+</div>
 
 ## `$ git stats`
 
 <div align="center">
+
+<img src="./profile-3d-contrib/profile-night-green.svg" width="100%" alt="3D contribution graph"/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=AlBaraa63&show_icons=true&bg_color=0d1117&border_color=1a1a1a&icon_color=00ff41&title_color=00ff41&text_color=ffffff" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlBaraa63&layout=compact&bg_color=0d1117&border_color=1a1a1a&title_color=00ff41&text_color=ffffff" height="165"/>
@@ -77,12 +91,20 @@
 
 </div>
 
+## `$ fortune | cowsay`
+
+<div align="center">
+
+<img src="https://readme-jokes.vercel.app/api?bgColor=%230d1117&borderColor=%231a1a1a&qColor=%2300ff41&aColor=%23ffffff&textColor=%23cccccc&codeColor=%2300ff41" alt="Random dev joke"/>
+
+</div>
+
 ---
 
 <div align="center">
 
 <sub>IT Intern · Abu Dhabi Social Support Authority &nbsp;|&nbsp; 42 Abu Dhabi Piscine &nbsp;|&nbsp; ex-CV Intern · Cellula Technologies &nbsp;|&nbsp; IEEE SNAMS 2025</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:00ff41,50:003d10,100:0d1117&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00ff41,50:003d10,100:0d1117&section=footer&text=see%20you%20in%20the%20commit%20log&fontColor=00ff41&fontSize=18&fontAlignY=70" width="100%"/>
 
 </div>
