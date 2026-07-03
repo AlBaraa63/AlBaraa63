@@ -32,11 +32,11 @@
 
 > Now      : IT Intern @ Abu Dhabi Social
              Support Authority
-             42 Abu Dhabi Piscine
 > Focus    : on-device mobile AI
              Model Context Protocol servers
              multi-step agentic workflows
 > Published: IEEE SNAMS 2025
+> Done     : 42 Abu Dhabi Piscine (passed)
 > Certs    : CS50x · CS50P · CS50AI
 ```
 
