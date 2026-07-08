@@ -25,17 +25,17 @@
 <img align="right" src="https://media.giphy.com/media/sULKEgDMX8LcI/giphy.gif" width="300" alt="Matrix rain"/>
 
 ```text
-> AI researcher & developer working at the
+> AI Engineer & developer working at the
   intersection of perception and autonomy:
   models that detect, reason, and take
   action without hand-holding.
 
-> Now      : IT Intern @ Abu Dhabi Social
+> Now      : AI & Data Science @ Abu Dhabi Social
              Support Authority
-> Focus    : on-device mobile AI
-             Model Context Protocol servers
+> Focus    : Edge AI
+             Agentic AI
              multi-step agentic workflows
-> Published: IEEE SNAMS 2025
+> Published: [**IEEE SNAMS 2025**](https://ieeexplore.ieee.org/document/11391039)
 > Done     : 42 Abu Dhabi Piscine (passed)
              TomatoCare — Capstone II (Grade A)
 > Certs    : CS50x · CS50P · CS50AI
@@ -104,7 +104,7 @@
 
 <div align="center">
 
-<sub>IT Intern · Abu Dhabi Social Support Authority &nbsp;|&nbsp; <a href="https://github.com/AlBaraa63/42-Piscine">42 Abu Dhabi Piscine</a> &nbsp;|&nbsp; ex-CV Intern · Cellula Technologies &nbsp;|&nbsp; IEEE SNAMS 2025</sub>
+<sub>AI & Data Science · Abu Dhabi Social Support Authority &nbsp;|&nbsp; <a href="https://github.com/AlBaraa63/42-Piscine">42 Abu Dhabi Piscine</a> &nbsp;|&nbsp; ex-CV Intern · Cellula Technologies &nbsp;|&nbsp; IEEE SNAMS 2025</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00ff41,50:003d10,100:0d1117&section=footer&text=see%20you%20in%20the%20commit%20log&fontColor=00ff41&fontSize=18&fontAlignY=70" width="100%"/>
 
