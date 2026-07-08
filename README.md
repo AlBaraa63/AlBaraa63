@@ -9,11 +9,7 @@
 <br/><br/>
 
 [![Website](https://img.shields.io/badge/PORTFOLIO-albaraaalolabi.dev-00ff41?style=for-the-badge&labelColor=0d1117&logo=googlechrome&logoColor=00ff41)](https://albaraaalolabi.dev)
-[![Followers](https://img.shields.io/github/followers/AlBaraa63?style=for-the-badge&label=FOLLOWERS&labelColor=0d1117&color=00ff41&logo=github&logoColor=00ff41)](https://github.com/AlBaraa63?tab=followers)
-[![Stars](https://img.shields.io/github/stars/AlBaraa63?style=for-the-badge&label=STARS&labelColor=0d1117&color=00ff41&logo=apachespark&logoColor=00ff41)](https://github.com/AlBaraa63?tab=repositories)
-
 ![IEEE](https://img.shields.io/badge/IEEE-PUBLISHED_AUTHOR-00ff41?style=for-the-badge&labelColor=0d1117&logo=ieee&logoColor=00ff41)
-![Location](https://img.shields.io/badge/BASE-UAE_%F0%9F%87%A6%F0%9F%87%AA-00ff41?style=for-the-badge&labelColor=0d1117)
 ![Profile views](https://komarev.com/ghpvc/?username=AlBaraa63&color=00ff41&style=for-the-badge&label=VISITORS)
 
 </div>
@@ -63,8 +59,6 @@
 
 <br/><br/>
 
-![MCP](https://img.shields.io/badge/-Model_Context_Protocol-0d1117?style=for-the-badge&logo=modelcontextprotocol&logoColor=00ff41)
-![Claude API](https://img.shields.io/badge/-Claude_API-0d1117?style=for-the-badge&logo=claude&logoColor=00ff41)
 ![YOLOv8](https://img.shields.io/badge/-YOLOv8-0d1117?style=for-the-badge&logoColor=00ff41)
 ![TFLite](https://img.shields.io/badge/-TFLite-0d1117?style=for-the-badge&logo=tensorflow&logoColor=00ff41)
 ![FAISS](https://img.shields.io/badge/-FAISS-0d1117?style=for-the-badge&logo=meta&logoColor=00ff41)
