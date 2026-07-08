@@ -20,23 +20,36 @@
 
 <img align="right" src="https://media.giphy.com/media/sULKEgDMX8LcI/giphy.gif" width="300" alt="Matrix rain"/>
 
-```text
-> AI Engineer & developer working at the
-  intersection of perception and autonomy:
-  models that detect, reason, and take
-  action without hand-holding.
+> AI Engineer & developer working at the intersection of perception and autonomy:
+  models that detect, reason, and take action without hand-holding.
 
-> Now      : AI & Data Science Intern @ Abu Dhabi
-             Social Support Authority
-> Focus    : medical image segmentation
-             on-device mobile AI
-             Model Context Protocol servers
-             multi-step agentic workflows
-> Published: IEEE SNAMS 2025
-> Done     : 42 Abu Dhabi Piscine (passed)
-             TomatoCare — Capstone II (Grade A)
-> Certs    : CS50x · CS50P · CS50AI
+```text
+$ systemctl status albaraa-cognitive-engine.service
+● albaraa-cognitive-engine.service - AI Engineer & Computer Vision Specialist Core
+     Loaded: loaded (/etc/systemd/system/albaraa-cognitive-engine.service; enabled; vendor preset: enabled)
+     Active: active (running) since Timeline: Expected August 2026 (Completion of B.Sc. CS)
+   Main PID: 421337 (42 Abu Dhabi Piscine Passed)
+      Tasks: 4 (Core Domains: Edge AI, Medical CV, Satellite Vision, Agentic Workflows)
+     Memory: 5.39M (F-UNet parameter footprint | 82% size reduction active)
+        CPU: Multi-modal edge acceleration (TFLite INT8 Quantization enabled)
+
+[SYS_INIT] Booting core cognitive subsystems...
+[OK]       Loading programming runtimes: Python 3.11, C/C++ (GCC/Clang), Kotlin (JVM)
+[OK]       Initializing neural engines: PyTorch, TensorFlow/Keras, OpenCV, YOLOv8, MediaPipe
+[OK]       Mounting perception layers: Spatial, Remote Sensing, Medical Diagnostics
+
+--- [ACTIVE RUNNING JOBS] ---
+🔬 F-UNet Pipeline   :: [Status: Under Review (IEEE JBHI)] -> Parameter-efficient medical segmentation
+🍅 TomatoCare App    :: [Status: Deployed (Mid-range Android)] -> 12-20ms latency, offline disease classification
+🏙️ CleanCity Agent   :: [Status: Winner (Anthropic MCP Hackathon)] -> Multi-tool agentic smart city cleanup
+🛰️ Satellite Segment :: [Status: Active (Sentinel-2 Multi-spectral)] -> MiT-B2 Transformer yielding 0.854 IoU
+
+--- [SYSTEM DIAGNOSTICS] ---
+* ADSSA Internship   :: Designed local survey QA checklist tool and analyzed data with clustering algorithms
+* Academic Research  :: 1 IEEE paper published (SNAMS 2025), 1 journal under review, 1 poster accepted
+* Verifiable Credentials :: Harvard CS50x / CS50P / CS50AI, IBM Computer Vision certified
 ```
+
 
 <br clear="right"/>
 
