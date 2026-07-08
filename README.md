@@ -26,10 +26,11 @@
   models that detect, reason, and take
   action without hand-holding.
 
-> Now      : AI & Data Science @ Abu Dhabi Social
-             Support Authority
-> Focus    : Edge AI
-             Agentic AI
+> Now      : AI & Data Science Intern @ Abu Dhabi
+             Social Support Authority
+> Focus    : medical image segmentation
+             on-device mobile AI
+             Model Context Protocol servers
              multi-step agentic workflows
 > Published: IEEE SNAMS 2025
 > Done     : 42 Abu Dhabi Piscine (passed)
@@ -45,7 +46,7 @@
 |---------|-------------|-------|
 | 🍅 [**TomatoCare**](https://github.com/AlBaraa63/TomatoCare) | Fully offline bilingual Android app diagnosing 11 tomato diseases on-device. **97.59% lab accuracy, 12–20 ms inference, zero network calls.** | TFLite · MobileNetV3 · Kotlin/Compose · CameraX |
 | 🏙️ [**CleanCity Agent**](https://github.com/AlBaraa63/Clean-City) | Turns trash photos into autonomous cleanup campaigns. MCP 1st Birthday Hackathon submission. | YOLOv8 · MCP · Gemini Vision · Gradio |
-| 🛰️ [**Mission Control MCP**](https://github.com/AlBaraa63/Mission-Control-MCP) | Enterprise MCP server — RAG search, email classification, KPI generation, PDF processing, data viz. **8 tools.** | Python · FAISS · MCP |
+| 🧬 [**F-UNet**](https://github.com/AlBaraa63/F-UNet) | Parameter-efficient medical image segmentation framework. **82% size reduction (5.39M params), 5 imaging domains.** Accepted at SRC2026, under review at IEEE JBHI. | PyTorch · YAML Config · Mixed Precision |
 
 <div align="right"><a href="https://albaraaalolabi.dev">→ full project catalog</a></div>
 
@@ -54,7 +55,7 @@
 <div align="center">
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,kotlin,androidstudio,react,git,github,vscode,linux&theme=dark&perline=11" alt="Tech stack icons"/>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,kotlin,androidstudio,git,github,vscode,linux&theme=dark&perline=10" alt="Tech stack icons"/>
 </a>
 
 <br/><br/>
@@ -98,7 +99,7 @@
 
 <div align="center">
 
-<sub>AI & Data Science · Abu Dhabi Social Support Authority &nbsp;|&nbsp; <a href="https://github.com/AlBaraa63/42-Piscine">42 Abu Dhabi Piscine</a> &nbsp;|&nbsp; ex-CV Intern · Cellula Technologies &nbsp;|&nbsp; IEEE SNAMS 2025</sub>
+<sub>AI & Data Science Intern · Abu Dhabi Social Support Authority &nbsp;|&nbsp; <a href="https://github.com/AlBaraa63/42-Piscine">42 Abu Dhabi Piscine</a> &nbsp;|&nbsp; ex-CV Intern · Cellula Technologies &nbsp;|&nbsp; IEEE SNAMS 2025</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00ff41,50:003d10,100:0d1117&section=footer&text=see%20you%20in%20the%20commit%20log&fontColor=00ff41&fontSize=18&fontAlignY=70" width="100%"/>
 
