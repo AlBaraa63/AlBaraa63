@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:0d1117,50:003d10,100:00ff41&text=AlBaraa%20AlOlabi&fontColor=00ff41&fontSize=48&fontAlignY=35&desc=AI%20Researcher%20and%20Developer%20%E2%80%94%20Computer%20Vision%20%C2%B7%20Agentic%20AI&descAlignY=55&descSize=16&animation=fadeIn&v=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:0d1117,50:003d10,100:00ff41&text=AlBaraa%20AlOlabi&fontColor=00ff41&fontSize=48&fontAlignY=35&desc=AI%20Engineer%20and%20Developer%20%E2%80%94%20Computer%20Vision%20%C2%B7%20Agentic%20AI&descAlignY=55&descSize=16&animation=fadeIn&v=3" width="100%"/>
 
 <a href="https://github.com/AlBaraa63">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=700&color=00FF41&center=true&vCenter=true&width=700&lines=Teaching+machines+to+see.;Building+agents+that+act.;97.59%25+accuracy.+12+ms+inference.+Zero+cloud.;Computer+Vision+%C2%B7+Agentic+AI+%C2%B7+MCP;IEEE+Published+Author+%C2%B7+42+Abu+Dhabi" alt="Typing animation"/>
