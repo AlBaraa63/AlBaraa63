@@ -35,7 +35,7 @@
 > Focus    : Edge AI
              Agentic AI
              multi-step agentic workflows
-> Published: [**IEEE SNAMS 2025**](https://ieeexplore.ieee.org/document/11391039)
+> Published: IEEE SNAMS 2025
 > Done     : 42 Abu Dhabi Piscine (passed)
              TomatoCare — Capstone II (Grade A)
 > Certs    : CS50x · CS50P · CS50AI
