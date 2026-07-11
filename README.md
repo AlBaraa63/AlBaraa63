@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:0d1117,50:003d10,100:00ff41&text=AlBaraa%20AlOlabi&fontColor=00ff41&fontSize=48&fontAlignY=35&desc=AI%20Engineer%20and%20Developer%20%E2%80%94%20Computer%20Vision%20%C2%B7%20Agentic%20AI&descAlignY=55&descSize=16&animation=fadeIn&v=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:0d1117,50:003d10,100:00ff41&text=AlBaraa%20AlOlabi&fontColor=00ff41&fontSize=48&fontAlignY=35&desc=AI%20Engineer%20%E2%80%94%20Computer%20Vision%20%C2%B7%20Edge%20AI%20%C2%B7%20Agentic%20AI&descAlignY=55&descSize=16&animation=fadeIn&v=3" width="100%"/>
 
 <a href="https://github.com/AlBaraa63">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=700&color=00FF41&center=true&vCenter=true&width=700&lines=Teaching+machines+to+see.;Building+agents+that+act.;97.59%25+accuracy.+12+ms+inference.+Zero+cloud.;Computer+Vision+%C2%B7+Agentic+AI+%C2%B7+MCP;IEEE+Published+Author+%C2%B7+42+Abu+Dhabi" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=700&color=00FF41&center=true&vCenter=true&width=700&lines=Teaching+machines+to+see.;Building+agents+that+act.;97.59%25+lab+accuracy+%C2%B7+12-20+ms+on-device+%C2%B7+zero+cloud;Computer+Vision+%C2%B7+Edge+AI+%C2%B7+MCP;IEEE+Published+Author+%C2%B7+42+Abu+Dhabi" alt="Typing animation"/>
 </a>
 
 <br/><br/>
@@ -14,52 +14,28 @@
 
 </div>
 
-<br/>
-
 ## `$ whoami`
 
-<img align="right" src="https://media.giphy.com/media/sULKEgDMX8LcI/giphy.gif" width="300" alt="Matrix rain"/>
-
-> AI Engineer & developer working at the intersection of perception and autonomy:
-  models that detect, reason, and take action without hand-holding.
+> Computer vision models that ship — to hospitals, satellites, and mid-range Android phones — and agents that act on what they see.
 
 ```text
-$ systemctl status albaraa-cognitive-engine.service
-● albaraa-cognitive-engine.service - AI Engineer & Computer Vision Specialist Core
-     Loaded: loaded (/etc/systemd/system/albaraa-cognitive-engine.service; enabled; vendor preset: enabled)
-     Active: active (running) since Timeline: Expected August 2026 (Completion of B.Sc. CS)
-   Main PID: 421337 (42 Abu Dhabi Piscine Passed)
-      Tasks: 4 (Core Domains: Edge AI, Medical CV, Satellite Vision, Agentic Workflows)
-     Memory: 5.39M (F-UNet parameter footprint | 82% size reduction active)
-        CPU: Multi-modal edge acceleration (TFLite INT8 Quantization enabled)
-
-[SYS_INIT] Booting core cognitive subsystems...
-[OK]       Loading programming runtimes: Python 3.11, C/C++ (GCC/Clang), Kotlin (JVM)
-[OK]       Initializing neural engines: PyTorch, TensorFlow/Keras, OpenCV, YOLOv8, MediaPipe
-[OK]       Mounting perception layers: Spatial, Remote Sensing, Medical Diagnostics
-
---- [ACTIVE RUNNING JOBS] ---
-🔬 F-UNet Pipeline   :: [Status: Under Review (IEEE JBHI)] -> Parameter-efficient medical segmentation
-🍅 TomatoCare App    :: [Status: Deployed (Mid-range Android)] -> 12-20ms latency, offline disease classification
-🏙️ CleanCity Agent   :: [Status: Winner (Anthropic MCP Hackathon)] -> Multi-tool agentic smart city cleanup
-🛰️ Satellite Segment :: [Status: Active (Sentinel-2 Multi-spectral)] -> MiT-B2 Transformer yielding 0.854 IoU
-
---- [SYSTEM DIAGNOSTICS] ---
-* ADSSA Internship   :: Designed local survey QA checklist tool and analyzed data with clustering algorithms
-* Academic Research  :: 1 IEEE paper published (SNAMS 2025), 1 journal under review, 1 poster accepted
-* Verifiable Credentials :: Harvard CS50x / CS50P / CS50AI, IBM Computer Vision certified
+$ systemctl status albaraa.service
+● albaraa.service — AI Engineer · Computer Vision
+     Active: active (running) — AI & Data Science Intern @ Abu Dhabi Social Support Authority
+   Research: F-UNet medical segmentation · 5.39M params (−82% vs U-Net) · under review @ IEEE JBHI
+  Published: IEEE SNAMS 2025 (sole author) · SRC'26 poster
+  Education: B.Sc. CS, Al Ain University (Aug 2026) · 42 Abu Dhabi Piscine · Harvard CS50x/P/AI
+      Focus: edge AI (TFLite/INT8) · medical & satellite vision · agentic workflows (MCP)
 ```
-
-
-<br clear="right"/>
 
 ## `$ ls featured-projects/`
 
 | Project | What it does | Stack |
 |---------|-------------|-------|
-| 🍅 [**TomatoCare**](https://github.com/AlBaraa63/TomatoCare) | Fully offline bilingual Android app diagnosing 11 tomato diseases on-device. **97.59% lab accuracy, 12–20 ms inference, zero network calls.** | TFLite · MobileNetV3 · Kotlin/Compose · CameraX |
-| 🏙️ [**CleanCity Agent**](https://github.com/AlBaraa63/Clean-City) | Turns trash photos into autonomous cleanup campaigns. MCP 1st Birthday Hackathon submission. | YOLOv8 · MCP · Gemini Vision · Gradio |
-| 🧬 [**F-UNet**](https://github.com/AlBaraa63/F-UNet) | Parameter-efficient medical image segmentation framework. **82% size reduction (5.39M params), 5 imaging domains.** Accepted at SRC2026, under review at IEEE JBHI. | PyTorch · YAML Config · Mixed Precision |
+| 🍅 [**TomatoCare**](https://github.com/AlBaraa63/TomatoCare) | Fully offline bilingual Android app diagnosing 11 tomato leaf diseases on-device. **97.59% lab accuracy, 12–20 ms inference, zero network calls.** | TFLite · MobileNetV3 · Kotlin/Compose |
+| 🧬 **F-UNet** | Parameter-efficient medical image segmentation across 5 imaging domains. **82% smaller than U-Net (5.39M params).** SRC'26 poster · under review at IEEE JBHI — code opens on publication. | PyTorch · YAML ablations · AMP |
+| 🏙️ [**CleanCity Agent**](https://github.com/AlBaraa63/Clean-City) | Turns trash photos into cleanup campaigns — **6 MCP tools orchestrated by Claude**, end to end. Built for the MCP 1st Birthday Hackathon. [Live demo ↗](https://huggingface.co/spaces/MCP-1st-Birthday/CleanCity) | YOLOv8 · MCP · Gemini Vision · Gradio |
+| 🔍 [**Mafqood**](https://github.com/AlBaraa63/Mafqood-App) | AI lost & found platform for Dubai — multi-signal visual matching in **<10 ms at database scale**. [Live demo ↗](https://mafqood.albaraaalolabi.dev/) | React Native · FastAPI · pgvector · FAISS |
 
 <div align="right"><a href="https://albaraaalolabi.dev">→ full project catalog</a></div>
 
@@ -87,24 +63,14 @@ $ systemctl status albaraa-cognitive-engine.service
 
 <img src="./profile-3d-contrib/profile-night-green.svg" width="100%" alt="3D contribution graph"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=AlBaraa63&show_icons=true&bg_color=0d1117&border_color=1a1a1a&icon_color=00ff41&title_color=00ff41&text_color=ffffff" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlBaraa63&layout=compact&bg_color=0d1117&border_color=1a1a1a&title_color=00ff41&text_color=ffffff" height="165"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AlBaraa63&show_icons=true&bg_color=0d1117&border_color=1a1a1a&icon_color=00ff41&title_color=00ff41&text_color=ffffff" height="165"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AlBaraa63&layout=compact&bg_color=0d1117&border_color=1a1a1a&title_color=00ff41&text_color=ffffff" height="165"/>
 
 <img src="https://streak-stats.demolab.com?user=AlBaraa63&background=0d1117&border=1a1a1a&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&currStreakNum=ffffff&sideLabels=00ff41&sideNums=ffffff&dates=888888" height="165"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=AlBaraa63&theme=matrix&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" width="100%"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlBaraa63&bg_color=0d1117&color=ffffff&line=00ff41&point=00ff41&area=true&area_color=003d10&hide_border=false&border_color=1a1a1a&title_color=00ff41" width="100%"/>
 
 <img src="https://raw.githubusercontent.com/AlBaraa63/AlBaraa63/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake"/>
-
-</div>
-
-## `$ fortune | cowsay`
-
-<div align="center">
-
-<img src="https://readme-jokes.vercel.app/api?bgColor=%230d1117&borderColor=%231a1a1a&qColor=%2300ff41&aColor=%23ffffff&textColor=%23cccccc&codeColor=%2300ff41" alt="Random dev joke"/>
 
 </div>
 
